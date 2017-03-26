@@ -1,2 +1,3 @@
 # WoW-Guide
-A guide for players about World of Warcraft
+
+Un guide pour les joueurs à propos de WoW.
