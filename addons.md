@@ -32,7 +32,7 @@ En **gras** les addons recommandé.
 
 - [**Details**](https://mods.curse.com/addons/wow/details) - Le plus complet et le plus précis de tout les kikimeters.
 - [Skada](https://mods.curse.com/addons/wow/skada) - Le plus léger des kikimeters, manque parfois de précision.
-  - [Skada For Tanks](https://mods.curse.com/addons/wow/skada-for-tanks) - Un mod de Skada pour les tanks qui les alertes sur
+  - [Skada For Tanks](https://mods.curse.com/addons/wow/skada-for-tanks) - Un mod de Skada pour les tanks.
 
 ### Pour s’équiper facilement en Raids et Donjons
 
