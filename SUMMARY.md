@@ -1,3 +1,3 @@
 # Sommaire
 
-* [Outils](addons.md)
+- [Outils](addons.md)
