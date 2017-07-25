@@ -40,8 +40,9 @@
 
 -   [**Vuhdo**](https://mods.curse.com/addons/wow/vuhdo) – Pour soigner plus facilement les autres via l'utilisation des boutons de la souris. L'addon le plus puissant de la liste, ainsi que le plus configurable.
     -   [Un guide](http://www.icy-veins.com/forums/topic/11805-vuhdo-configuration-quick-start-guide/) (en Anglais cependant) pour aider à la configuration de Vuhdo.
+-   [Grid2](https://mods.curse.com/addons/wow/grid2) – Un dernier addon permettant de gérer les soins sur le groupe.
+    - [Un guide](http://murlocparliament.com/how-2-grid2/) (en Anglais cependant) pour aider à la configuration de Grid2.
 -   [HealBot Continued](https://mods.curse.com/addons/wow/heal-bot-continued) – Encore un autre addon pour gérer les actions via des clic souris.
--   [Grid](https://mods.curse.com/addons/wow/grid) – Un dernier addon permettant de gérer les soins sur le groupe. Du moins, il parait.
 -   [_Healium_](https://mods.curse.com/addons/wow/healium) – Un autre addon permettant de gérer les soins du groupe, néanmoins rapidement surchargé dans de grand groupe.
 
 ## Raids et Donjons
