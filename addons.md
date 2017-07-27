@@ -16,6 +16,8 @@
 
 -   [**IceHUD**](https://mods.curse.com/addons/wow/ice-hud) – Affichage tête haute de vos barres de vie/energie/mana et de celles de votre cible.
 -   [MikScrollingBattleText](https://mods.curse.com/addons/wow/mik-scrolling-battle-text) – Un addon revisitant l'affichage des informations en cours de combat.
+-   [Grid2](https://mods.curse.com/addons/wow/grid2) – Permet de remplacer et de personnaliser l'affichage des groupes et raids.
+    -   [Un guide](http://murlocparliament.com/how-2-grid2/) (en Anglais cependant) pour aider à la configuration de Grid2.
 
 ### Sacs
 
@@ -40,8 +42,6 @@
 
 -   [**Vuhdo**](https://mods.curse.com/addons/wow/vuhdo) – Pour soigner plus facilement les autres via l'utilisation des boutons de la souris. L'addon le plus puissant de la liste, ainsi que le plus configurable.
     -   [Un guide](http://www.icy-veins.com/forums/topic/11805-vuhdo-configuration-quick-start-guide/) (en Anglais cependant) pour aider à la configuration de Vuhdo.
--   [Grid2](https://mods.curse.com/addons/wow/grid2) – Un dernier addon permettant de gérer les soins sur le groupe.
-    - [Un guide](http://murlocparliament.com/how-2-grid2/) (en Anglais cependant) pour aider à la configuration de Grid2.
 -   [HealBot Continued](https://mods.curse.com/addons/wow/heal-bot-continued) – Encore un autre addon pour gérer les actions via des clic souris.
 -   [_Healium_](https://mods.curse.com/addons/wow/healium) – Un autre addon permettant de gérer les soins du groupe, néanmoins rapidement surchargé dans de grand groupe.
 
